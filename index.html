@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+    <h2>Jornal Brasil News</h2>
+    <center>
+        <a class="menus" href="saude.html">SAÚDE</a>
+        <a class="menus" href="educacao.html">EDUCAÇÃO</a>
+        <a class="menus" href="economia.html">ECONOMIA</a>
+        <a class="menus" href="sobre.html">SOBRE</a>
+    </center>
+    <br><br>
+    <form>
+        <h4>
+            "FIQUE POR DENTRO DAS PRINCIPAIS NOTÍCIAS QUE ESTÃO MOLDANDO O BRASIL, 
+            AS ÚLTIMAS ATUALIZAÇÕES EM TEMPO REAL, DIRETO DE NOSSA REDAÇÃO."
+        </h4>
+    </form>
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+    <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+    <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+    </script>
+</body>
+
+</html>

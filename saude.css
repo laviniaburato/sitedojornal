@@ -1,0 +1,43 @@
+h3 {
+    color: rgb(255, 255, 255);
+    font-family: Cambria;
+    font-size: x-large;
+    font-style: inherit;
+}
+
+body {
+    background-color: rgb(150, 45, 125);
+}
+
+h6 {
+    color: rgb(255, 255, 255);
+    font-family: Cambria;
+    font-size:smaller;
+    font-style: inherit;
+}
+
+.text1 {
+    color: rgb(220, 216, 216);
+    padding-right: 100px;
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.text2 {
+    color: rgb(220, 216, 216);
+    padding-right: 100px;
+    width: 50%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.galeria{
+    margin-left: 17%;
+}

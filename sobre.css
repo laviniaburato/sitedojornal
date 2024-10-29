@@ -1,0 +1,25 @@
+.info{
+    color: rgb(255, 255, 255);
+    background-color: rgb(182, 162, 74);
+    background: 125, 158, 156;
+    padding: 10px 0;
+    position:relative;
+    bottom:0;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:left;
+}
+
+body {
+    background-image: url('jornal02.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family: Cambria;
+    font-size: xx-large;
+    font-style: inherit;
+    text-align: center;
+}
